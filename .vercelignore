@@ -1,0 +1,10 @@
+.git
+.tools
+.venv
+.venv-prep
+data/raw
+data/cache
+tests
+docs
+.env*
+__pycache__

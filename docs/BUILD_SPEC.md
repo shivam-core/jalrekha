@@ -1,10 +1,10 @@
 # JALREKHA — complete Codex build prompt
 
-**Owner:** Shivam Kore (`shivam-core`)  
-**Team:** Team Advantage  
-**Repository:** https://github.com/shivam-core/jalrekha  
-**Build environment:** local Codex, authenticated with the owner's existing ChatGPT account  
-**Deployment:** Vercel Hobby; GitHub stores source and authentic commit history  
+**Owner:** Shivam Kore (`shivam-core`)
+**Team:** Team Advantage
+**Repository:** https://github.com/shivam-core/jalrekha
+**Build environment:** local Codex, authenticated with the owner's existing ChatGPT account
+**Deployment:** Vercel Hobby; GitHub stores source and authentic commit history
 **Target:** a working, polished, single-corridor hackathon prototype in approximately four focused hours, subject to the actual submission deadline, authentication, data availability, and usage limits.
 
 ## How to use this document
@@ -41,10 +41,10 @@ AI use is permitted by the supplied rulebook and must be disclosed in the README
 
 ## 2. Product definition and exact scope
 
-**Name:** JALREKHA / जलरेखा  
-**Tagline:** When routes change, plans should too.  
-**Mission:** Help planners explore how assumed flood conditions and road closures affect access to limited shelter capacity.  
-**Primary user:** a disaster-planning coordinator conducting a scenario exercise.  
+**Name:** JALREKHA / जलरेखा
+**Tagline:** When routes change, plans should too.
+**Mission:** Help planners explore how assumed flood conditions and road closures affect access to limited shelter capacity.
+**Primary user:** a disaster-planning coordinator conducting a scenario exercise.
 **Primary problem statement:** AI for Good, **AI-05 — Develop an intelligent system for optimizing resource allocation in healthcare, education, or disaster management.**
 
 The prototype is a **what-if planning simulator**, using terrain analysis, graph algorithms, and constrained allocation. Do not claim a trained flood-prediction model, operationally safe navigation, official shelter status, validated population exposure, or lives saved.

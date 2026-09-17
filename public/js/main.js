@@ -1,0 +1,1 @@
+try { const [h,s] = await Promise.all(['/api/health','/api/scenario'].map(u=>fetch(u).then(r=>r.json()))); document.querySelector('#result').textContent=JSON.stringify({health:h,scenario:s},null,2); } catch(e){document.querySelector('#result').textContent='API unavailable: '+e.message;}
